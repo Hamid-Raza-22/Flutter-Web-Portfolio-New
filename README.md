@@ -2,7 +2,6 @@
 
 Star ⭐ the repo if you like what you see😉.
 
-Web App: https://www.agnelselvan.com/#/
 
 #### How to Install?
 ```
